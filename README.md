@@ -1,1 +1,1 @@
-# financialbrain
+# project template
